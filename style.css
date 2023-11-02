@@ -1,0 +1,15 @@
+.carousel-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+img {
+    width: 60vw;
+    height: 40vh;
+    object-fit: cover;
+    display: none;
+}
+
+.active {
+    display: block;
+}
