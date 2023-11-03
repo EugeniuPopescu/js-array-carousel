@@ -1,6 +1,6 @@
 .carousel-container {
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
     position: relative;
 }
 
@@ -17,10 +17,10 @@ img {
 
 #nextBtn {
     position: absolute;
-    bottom: 20rem;
+    bottom: 10rem;
 }
 
 #prevBtn {
     position: absolute;
-    top: 20em;
+    top: 10em;
 }
